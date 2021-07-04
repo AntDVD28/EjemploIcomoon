@@ -1,6 +1,6 @@
 # EjemploIcomoon
 
-Página de ejemplo donde incluyo mi librería Icon-Fonts con Icomoon
+Página de ejemplo donde incluyo mi librería Icon-Fonts generada con Icomoon
 
 
 Generar mi propia libreria de ICON-FONTS con Icommon
